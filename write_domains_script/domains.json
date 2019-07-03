@@ -1,0 +1,1122 @@
+[
+    {
+        "domains": [
+            {
+                "name": "Chemical Engineering",
+                "subdomains": [
+                    {
+                        "name": "Bioengineering",
+                        "url": "bioengineering"
+                    },
+                    {
+                        "name": "Catalysis",
+                        "url": "catalysis"
+                    },
+                    {
+                        "name": "Chemical Engineering (General)",
+                        "url": "chemical-engineering-general"
+                    },
+                    {
+                        "name": "Chemical Health and Safety",
+                        "url": "chemical-health-and-safety"
+                    },
+                    {
+                        "name": "Colloid and Surface Chemistry",
+                        "url": "colloid-and-surface-chemistry"
+                    },
+                    {
+                        "name": "Filtration and Separation",
+                        "url": "filtration-and-separation"
+                    },
+                    {
+                        "name": "Fluid Flow and Transfer Processes",
+                        "url": "fluid-flow-and-transfer-processes"
+                    },
+                    {
+                        "name": "Process Chemistry and Technology",
+                        "url": "process-chemistry-and-technology"
+                    }
+                ],
+                "url": "chemical-engineering"
+            },
+            {
+                "name": "Chemistry",
+                "subdomains": [
+                    {
+                        "name": "Analytical Chemistry",
+                        "url": "analytical-chemistry"
+                    },
+                    {
+                        "name": "Chemistry (General)",
+                        "url": "chemistry-general"
+                    },
+                    {
+                        "name": "Electrochemistry",
+                        "url": "electrochemistry"
+                    },
+                    {
+                        "name": "Inorganic Chemistry",
+                        "url": "inorganic-chemistry"
+                    },
+                    {
+                        "name": "Organic Chemistry",
+                        "url": "organic-chemistry"
+                    },
+                    {
+                        "name": "Physical and Theoretical Chemistry",
+                        "url": "physical-and-theoretical-chemistry"
+                    },
+                    {
+                        "name": "Spectroscopy",
+                        "url": "spectroscopy"
+                    }
+                ],
+                "url": "chemistry"
+            },
+            {
+                "name": "Computer Science",
+                "subdomains": [
+                    {
+                        "name": "Artificial Intelligence",
+                        "url": "artificial-intelligence"
+                    },
+                    {
+                        "name": "Computational Theory and Mathematics",
+                        "url": "computational-theory-and-mathematics"
+                    },
+                    {
+                        "name": "Computer Graphics and Computer-Aided Design",
+                        "url": "computer-graphics-and-computer-aided-design"
+                    },
+                    {
+                        "name": "Computer Networks and Communications",
+                        "url": "computer-networks-and-communications"
+                    },
+                    {
+                        "name": "Computer Science (General)",
+                        "url": "computer-science-general"
+                    },
+                    {
+                        "name": "Computer Science Applications",
+                        "url": "computer-science-applications"
+                    },
+                    {
+                        "name": "Computer Vision and Pattern Recognition",
+                        "url": "computer-vision-and-pattern-recognition"
+                    },
+                    {
+                        "name": "Hardware and Architecture",
+                        "url": "hardware-and-architecture"
+                    },
+                    {
+                        "name": "Human-Computer Interaction",
+                        "url": "human-computer-interaction"
+                    },
+                    {
+                        "name": "Information Systems",
+                        "url": "information-systems"
+                    },
+                    {
+                        "name": "Signal Processing",
+                        "url": "signal-processing"
+                    },
+                    {
+                        "name": "Software",
+                        "url": "software"
+                    }
+                ],
+                "url": "computer-science"
+            },
+            {
+                "name": "Earth and Planetary Sciences",
+                "subdomains": [
+                    {
+                        "name": "Atmospheric Science",
+                        "url": "atmospheric-science"
+                    },
+                    {
+                        "name": "Computers in Earth Sciences",
+                        "url": "computers-in-earth-sciences"
+                    },
+                    {
+                        "name": "Earth and Planetary Sciences (General)",
+                        "url": "earth-and-planetary-sciences-general"
+                    },
+                    {
+                        "name": "Earth-Surface Processes",
+                        "url": "earth-surface-processes"
+                    },
+                    {
+                        "name": "Economic Geology",
+                        "url": "econogeo"
+                    },
+                    {
+                        "name": "Geochemistry and Petrology",
+                        "url": "geochemistry-and-petrology"
+                    },
+                    {
+                        "name": "Geology",
+                        "url": "geology"
+                    },
+                    {
+                        "name": "Geophysics",
+                        "url": "geophysics"
+                    },
+                    {
+                        "name": "Geotechnical Engineering and Engineering Geology",
+                        "url": "geotechnical-engineering-and-engineering-geology"
+                    },
+                    {
+                        "name": "Oceanography",
+                        "url": "oceanography"
+                    },
+                    {
+                        "name": "Palaeontology",
+                        "url": "palaentology"
+                    },
+                    {
+                        "name": "Space and Planetary Science",
+                        "url": "space-and-planetary-science"
+                    },
+                    {
+                        "name": "Stratigraphy",
+                        "url": "stratigraphy"
+                    }
+                ],
+                "url": "earth-and-planetary-sciences"
+            },
+            {
+                "name": "Energy",
+                "subdomains": [
+                    {
+                        "name": "Energy (General)",
+                        "url": "energy-general"
+                    },
+                    {
+                        "name": "Energy Engineering and Power Technology",
+                        "url": "energy-engineering-and-power-technology"
+                    },
+                    {
+                        "name": "Fuel Technology",
+                        "url": "fuel-technology"
+                    },
+                    {
+                        "name": "Nuclear Energy and Engineering",
+                        "url": "nuclear-energy-and-engineering"
+                    },
+                    {
+                        "name": "Renewable Energy, Sustainability and the Environment",
+                        "url": "renewable-energy-sustainability-and-the-environment"
+                    }
+                ],
+                "url": "energy"
+            },
+            {
+                "name": "Engineering",
+                "subdomains": [
+                    {
+                        "name": "Aerospace Engineering",
+                        "url": "aerospace-engineering"
+                    },
+                    {
+                        "name": "Automotive Engineering",
+                        "url": "automotive-engineering"
+                    },
+                    {
+                        "name": "Biomedical Engineering",
+                        "url": "biomedical-engineering"
+                    },
+                    {
+                        "name": "Civil and Structural Engineering",
+                        "url": "civil-and-structural-engineering"
+                    },
+                    {
+                        "name": "Computational Mechanics",
+                        "url": "computational-mechanics"
+                    },
+                    {
+                        "name": "Control and Systems Engineering",
+                        "url": "control-and-systems-engineering"
+                    },
+                    {
+                        "name": "Electrical and Electronic Engineering",
+                        "url": "electrical-and-electronic-engineering"
+                    },
+                    {
+                        "name": "Engineering (General)",
+                        "url": "engineering-general"
+                    },
+                    {
+                        "name": "Industrial and Manufacturing Engineering",
+                        "url": "industrial-and-manufacturing-engineering"
+                    },
+                    {
+                        "name": "Mechanical Engineering",
+                        "url": "mechanical-engineering"
+                    },
+                    {
+                        "name": "Mechanics of Materials",
+                        "url": "mechanics-of-materials"
+                    },
+                    {
+                        "name": "Ocean Engineering",
+                        "url": "ocean-engineering"
+                    },
+                    {
+                        "name": "Safety, Risk, Reliability and Quality",
+                        "url": "safety-risk-reliability-and-quality"
+                    }
+                ],
+                "url": "engineering"
+            },
+            {
+                "name": "Materials Science",
+                "subdomains": [
+                    {
+                        "name": "Biomaterials",
+                        "url": "biomaterials"
+                    },
+                    {
+                        "name": "Ceramics and Composites",
+                        "url": "ceramics-and-composites"
+                    },
+                    {
+                        "name": "Electronic, Optical and Magnetic Materials",
+                        "url": "electronic-optical-and-magnetic-materials"
+                    },
+                    {
+                        "name": "Materials Chemistry",
+                        "url": "materials-chemistry"
+                    },
+                    {
+                        "name": "Materials Science (General)",
+                        "url": "materials-science-general"
+                    },
+                    {
+                        "name": "Metals and Alloys",
+                        "url": "metals-and-alloys"
+                    },
+                    {
+                        "name": "Nanotechnology",
+                        "url": "nanotechnology"
+                    },
+                    {
+                        "name": "Polymers and Plastics",
+                        "url": "polymers-and-plastics"
+                    },
+                    {
+                        "name": "Surfaces, Coatings and Films",
+                        "url": "surfaces-coatings-and-films"
+                    }
+                ],
+                "url": "materials-science"
+            },
+            {
+                "name": "Mathematics",
+                "subdomains": [
+                    {
+                        "name": "Algebra and Number Theory",
+                        "url": "algebra-and-number-theory"
+                    },
+                    {
+                        "name": "Analysis",
+                        "url": "analysis"
+                    },
+                    {
+                        "name": "Applied Mathematics",
+                        "url": "applied-mathematics"
+                    },
+                    {
+                        "name": "Computational Mathematics",
+                        "url": "computational-mathematics"
+                    },
+                    {
+                        "name": "Control and Optimization",
+                        "url": "control-and-optimization"
+                    },
+                    {
+                        "name": "Discrete Mathematics and Combinatorics",
+                        "url": "discrete-mathematics-and-combinatorics"
+                    },
+                    {
+                        "name": "Geometry and Topology",
+                        "url": "geometry-and-topology"
+                    },
+                    {
+                        "name": "Logic",
+                        "url": "logic"
+                    },
+                    {
+                        "name": "Mathematical Physics",
+                        "url": "mathematical-physics"
+                    },
+                    {
+                        "name": "Mathematics (General)",
+                        "url": "mathematics-general"
+                    },
+                    {
+                        "name": "Modelling and Simulation",
+                        "url": "modelling-and-simulation"
+                    },
+                    {
+                        "name": "Numerical Analysis",
+                        "url": "numerical-analysis"
+                    },
+                    {
+                        "name": "Statistics and Probability",
+                        "url": "statistics-and-probability"
+                    },
+                    {
+                        "name": "Theoretical Computer Science",
+                        "url": "theoretical-computer-science"
+                    }
+                ],
+                "url": "mathematics"
+            },
+            {
+                "name": "Physics and Astronomy",
+                "subdomains": [
+                    {
+                        "name": "Acoustics and Ultrasonics",
+                        "url": "acoustics-and-ultrasonics"
+                    },
+                    {
+                        "name": "Astronomy and Astrophysics",
+                        "url": "astronomy-and-astrophysics"
+                    },
+                    {
+                        "name": "Atomic and Molecular Physics, and Optics",
+                        "url": "atomic-and-molecular-physics-and-optics"
+                    },
+                    {
+                        "name": "Condensed Matter Physics",
+                        "url": "condensed-matter-physics"
+                    },
+                    {
+                        "name": "Instrumentation",
+                        "url": "instrumentation"
+                    },
+                    {
+                        "name": "Nuclear and High Energy Physics",
+                        "url": "nuclear-and-high-energy-physics"
+                    },
+                    {
+                        "name": "Physics and Astronomy (General)",
+                        "url": "physics-and-astronomy-general"
+                    },
+                    {
+                        "name": "Radiation",
+                        "url": "radiation"
+                    },
+                    {
+                        "name": "Statistical and Nonlinear Physics",
+                        "url": "statistical-and-nonlinear-physics"
+                    },
+                    {
+                        "name": "Surfaces and Interfaces",
+                        "url": "surfaces-and-interfaces"
+                    }
+                ],
+                "url": "physics-and-astronomy"
+            }
+        ],
+        "name": "Physical Sciences and Engineering",
+        "url": "physical-sciences-and-engineering"
+    },
+    {
+        "domains": [
+            {
+                "name": "Agricultural and Biological Sciences",
+                "subdomains": [
+                    {
+                        "name": "Agricultural and Biological Sciences (General)",
+                        "url": "agricultural-and-biological-sciences-general"
+                    },
+                    {
+                        "name": "Agronomy and Crop Science",
+                        "url": "agronomy-and-crop-science"
+                    },
+                    {
+                        "name": "Animal Science and Zoology",
+                        "url": "animal-science-and-zoology"
+                    },
+                    {
+                        "name": "Aquatic Science",
+                        "url": "aquatic-science"
+                    },
+                    {
+                        "name": "Ecology, Evolution, Behavior and Systematics",
+                        "url": "ecology-evolution-behavior-and-systematics"
+                    },
+                    {
+                        "name": "Food Science",
+                        "url": "food-science"
+                    },
+                    {
+                        "name": "Forestry",
+                        "url": "forestry"
+                    },
+                    {
+                        "name": "Horticulture",
+                        "url": "horticulture"
+                    },
+                    {
+                        "name": "Insect Science",
+                        "url": "insect-science"
+                    },
+                    {
+                        "name": "Plant Science",
+                        "url": "plant-science"
+                    },
+                    {
+                        "name": "Soil Science",
+                        "url": "soil-science"
+                    }
+                ],
+                "url": "agricultural-and-biological-sciences"
+            },
+            {
+                "name": "Biochemistry, Genetics and Molecular Biology",
+                "subdomains": [
+                    {
+                        "name": "Ageing",
+                        "url": "ageing"
+                    },
+                    {
+                        "name": "Biochemistry",
+                        "url": "biochemistry"
+                    },
+                    {
+                        "name": "Biochemistry, Genetics and Molecular Biology (General)",
+                        "url": "biochemistry-genetics-and-molecular-biology-general"
+                    },
+                    {
+                        "name": "Biophysics",
+                        "url": "biophysics"
+                    },
+                    {
+                        "name": "Biotechnology",
+                        "url": "biotechnology"
+                    },
+                    {
+                        "name": "Cancer Research",
+                        "url": "cancer-research"
+                    },
+                    {
+                        "name": "Cell Biology",
+                        "url": "cell-biology"
+                    },
+                    {
+                        "name": "Clinical Biochemistry",
+                        "url": "clinical-biochemistry"
+                    },
+                    {
+                        "name": "Developmental Biology",
+                        "url": "developmental-biology"
+                    },
+                    {
+                        "name": "Endocrinology",
+                        "url": "endocrinology"
+                    },
+                    {
+                        "name": "Genetics",
+                        "url": "genetics"
+                    },
+                    {
+                        "name": "Molecular Biology",
+                        "url": "molecular-biology"
+                    },
+                    {
+                        "name": "Molecular Medicine",
+                        "url": "molecular-medicine"
+                    },
+                    {
+                        "name": "Physiology",
+                        "url": "physiology"
+                    },
+                    {
+                        "name": "Structural Biology",
+                        "url": "structural-biology"
+                    }
+                ],
+                "url": "biochemistry-genetics-and-molecular-biology"
+            },
+            {
+                "name": "Environmental Science",
+                "subdomains": [
+                    {
+                        "name": "Ecological Modelling",
+                        "url": "ecological-modelling"
+                    },
+                    {
+                        "name": "Ecology",
+                        "url": "ecology"
+                    },
+                    {
+                        "name": "Environmental Chemistry",
+                        "url": "environmental-chemistry"
+                    },
+                    {
+                        "name": "Environmental Engineering",
+                        "url": "environmental-engineering"
+                    },
+                    {
+                        "name": "Environmental Science (General)",
+                        "url": "environmental-science-general"
+                    },
+                    {
+                        "name": "Global and Planetary Change",
+                        "url": "global-and-planetary-change"
+                    },
+                    {
+                        "name": "Health, Toxicology and Mutagenesis",
+                        "url": "health-toxicology-and-mutagenesis"
+                    },
+                    {
+                        "name": "Management, Monitoring, Policy and Law",
+                        "url": "management-monitoring-policy-and-law"
+                    },
+                    {
+                        "name": "Nature and Landscape Conservation",
+                        "url": "nature-and-landscape-conservation"
+                    },
+                    {
+                        "name": "Pollution",
+                        "url": "pollution"
+                    },
+                    {
+                        "name": "Waste Management and Disposal",
+                        "url": "waste-management-and-disposal"
+                    },
+                    {
+                        "name": "Water Science and Technology",
+                        "url": "water-science-and-technology"
+                    }
+                ],
+                "url": "environmental-science"
+            },
+            {
+                "name": "Immunology and Microbiology",
+                "subdomains": [
+                    {
+                        "name": "Applied Microbiology and Biotechnology",
+                        "url": "applied-microbiology-and-biotechnology"
+                    },
+                    {
+                        "name": "Immunology",
+                        "url": "immunology"
+                    },
+                    {
+                        "name": "Immunology and Microbiology (General)",
+                        "url": "immunology-and-microbiology-general"
+                    },
+                    {
+                        "name": "Microbiology",
+                        "url": "microbiology"
+                    },
+                    {
+                        "name": "Parasitology",
+                        "url": "parasitology"
+                    },
+                    {
+                        "name": "Virology",
+                        "url": "virology"
+                    }
+                ],
+                "url": "immunology-and-microbiology"
+            },
+            {
+                "name": "Neuroscience",
+                "subdomains": [
+                    {
+                        "name": "Behavioral Neuroscience",
+                        "url": "behavioral-neuroscience"
+                    },
+                    {
+                        "name": "Biological Psychiatry",
+                        "url": "biological-psychiatry"
+                    },
+                    {
+                        "name": "Cellular and Molecular Neuroscience",
+                        "url": "cellular-and-molecular-neuroscience"
+                    },
+                    {
+                        "name": "Cognitive Neuroscience",
+                        "url": "cognitive-neuroscience"
+                    },
+                    {
+                        "name": "Developmental Neuroscience",
+                        "url": "developmental-neuroscience"
+                    },
+                    {
+                        "name": "Endocrine and Autonomic Systems",
+                        "url": "endocrine-and-autonomic-systems"
+                    },
+                    {
+                        "name": "Neurology",
+                        "url": "neurology"
+                    },
+                    {
+                        "name": "Neuroscience (General)",
+                        "url": "neuroscience-general"
+                    },
+                    {
+                        "name": "Sensory Systems",
+                        "url": "sensory-systems"
+                    }
+                ],
+                "url": "neuroscience"
+            }
+        ],
+        "name": "Life Sciences",
+        "url": "life-sciences"
+    },
+    {
+        "domains": [
+            {
+                "name": "Medicine and Dentistry",
+                "subdomains": [
+                    {
+                        "name": "Anesthesiology and Pain Medicine",
+                        "url": "anesthesiology-and-pain-medicine"
+                    },
+                    {
+                        "name": "Cardiology and Cardiovascular Medicine",
+                        "url": "cardiology-and-cardiovascular-medicine"
+                    },
+                    {
+                        "name": "Clinical Neurology",
+                        "url": "clinical-neurology"
+                    },
+                    {
+                        "name": "Complementary and Alternative Medicine",
+                        "url": "complementary-and-alternative-medicine"
+                    },
+                    {
+                        "name": "Critical Care and Intensive Care Medicine",
+                        "url": "critical-care-and-intensive-care-medicine"
+                    },
+                    {
+                        "name": "Dentistry, Oral Surgery and Medicine",
+                        "url": "dentistry-oral-surgery-and-medicine"
+                    },
+                    {
+                        "name": "Dermatology",
+                        "url": "dermatology"
+                    },
+                    {
+                        "name": "Emergency Medicine",
+                        "url": "emergency-medicine"
+                    },
+                    {
+                        "name": "Endocrinology, Diabetes and Metabolism",
+                        "url": "endocrinology-diabetes-and-metabolism"
+                    },
+                    {
+                        "name": "Forensic Medicine",
+                        "url": "forensic-medicine"
+                    },
+                    {
+                        "name": "Gastroenterology",
+                        "url": "gastroenterology"
+                    },
+                    {
+                        "name": "Geriatrics and Gerontology",
+                        "url": "geriatrics-and-gerontology"
+                    },
+                    {
+                        "name": "Health Informatics",
+                        "url": "health-informatics"
+                    },
+                    {
+                        "name": "Hematology",
+                        "url": "hematology"
+                    },
+                    {
+                        "name": "Hepatology",
+                        "url": "hepatology"
+                    },
+                    {
+                        "name": "Immunology, Allergology and Rheumatology",
+                        "url": "immunology-allergology-and-rheumatology"
+                    },
+                    {
+                        "name": "Infectious Diseases",
+                        "url": "infectious-diseases"
+                    },
+                    {
+                        "name": "Medicine and Dentistry (General)",
+                        "url": "medicine-and-dentistry-general"
+                    },
+                    {
+                        "name": "Nephrology",
+                        "url": "nephrology"
+                    },
+                    {
+                        "name": "Obstetrics, Gynecology and Women's Health",
+                        "url": "obstetrics-gynecology-and-womens-health"
+                    },
+                    {
+                        "name": "Oncology",
+                        "url": "oncology"
+                    },
+                    {
+                        "name": "Ophthalmology",
+                        "url": "ophthalmology"
+                    },
+                    {
+                        "name": "Orthopedics, Sports Medicine and Rehabilitation",
+                        "url": "orthopedics-sports-medicine-and-rehabilitation"
+                    },
+                    {
+                        "name": "Otorhinolaryngology and Facial Plastic Surgery",
+                        "url": "otorhinolaryngology-and-facial-plastic-surgery"
+                    },
+                    {
+                        "name": "Pathology and Medical Technology",
+                        "url": "pathology-and-medical-technology"
+                    },
+                    {
+                        "name": "Perinatology, Pediatrics and Child Health",
+                        "url": "perinatology-pediatrics-and-child-health"
+                    },
+                    {
+                        "name": "Psychiatry and Mental Health",
+                        "url": "psychiatry-and-mental-health"
+                    },
+                    {
+                        "name": "Public Health and Health Policy",
+                        "url": "public-health-and-health-policy"
+                    },
+                    {
+                        "name": "Pulmonary and Respiratory Medicine",
+                        "url": "pulmonary-and-respiratory-medicine"
+                    },
+                    {
+                        "name": "Radiology and Imaging",
+                        "url": "radiology-and-imaging"
+                    },
+                    {
+                        "name": "Surgery",
+                        "url": "surgery"
+                    },
+                    {
+                        "name": "Transplantation",
+                        "url": "transplantation"
+                    },
+                    {
+                        "name": "Urology",
+                        "url": "urology"
+                    }
+                ],
+                "url": "medicine-and-dentistry"
+            },
+            {
+                "name": "Nursing and Health Professions",
+                "subdomains": [
+                    {
+                        "name": "Emergency Rescue",
+                        "url": "emergency-rescue"
+                    },
+                    {
+                        "name": "Manual Therapy",
+                        "url": "manual-therapy"
+                    },
+                    {
+                        "name": "Midwifery",
+                        "url": "midwifery"
+                    },
+                    {
+                        "name": "Nursing",
+                        "url": "nursing"
+                    },
+                    {
+                        "name": "Nursing and Health Professions (General)",
+                        "url": "nursing-and-health-professions-general"
+                    },
+                    {
+                        "name": "Nutrition",
+                        "url": "nutrition"
+                    },
+                    {
+                        "name": "Occupational Therapy",
+                        "url": "occupational-therapy"
+                    },
+                    {
+                        "name": "Optometry",
+                        "url": "optometry"
+                    },
+                    {
+                        "name": "Physical Therapy and Rehabilitation",
+                        "url": "physical-therapy-and-rehabilitation"
+                    },
+                    {
+                        "name": "Podiatry",
+                        "url": "podiatry"
+                    },
+                    {
+                        "name": "Primary Care",
+                        "url": "primary-care"
+                    },
+                    {
+                        "name": "Radiography",
+                        "url": "radiography"
+                    },
+                    {
+                        "name": "Sport Sciences, Therapy and Medicine",
+                        "url": "sport-sciences-therapy-and-medicine"
+                    }
+                ],
+                "url": "nursing-and-health-professions"
+            },
+            {
+                "name": "Pharmacology, Toxicology and Pharmaceutical Science",
+                "subdomains": [
+                    {
+                        "name": "Drug Discovery",
+                        "url": "drug-discovery"
+                    },
+                    {
+                        "name": "Pharmaceutical Science",
+                        "url": "pharmaceutical-science"
+                    },
+                    {
+                        "name": "Pharmacology",
+                        "url": "pharamacology"
+                    },
+                    {
+                        "name": "Pharmacology, Toxicology and Pharmaceutics (General)",
+                        "url": "pharmacology-toxicology-and-pharmaceutics-general"
+                    },
+                    {
+                        "name": "Toxicology",
+                        "url": "toxicology"
+                    }
+                ],
+                "url": "pharmacology-toxicology-and-pharmaceutical-science"
+            },
+            {
+                "name": "Veterinary Science and Veterinary Medicine",
+                "subdomains": [
+                    {
+                        "name": "Veterinary Medicine",
+                        "url": "vetmed"
+                    },
+                    {
+                        "name": "Veterinary Science",
+                        "url": "vetsci"
+                    },
+                    {
+                        "name": "Veterinary Science and Veterinary Medicine (General)",
+                        "url": "vetgen"
+                    }
+                ],
+                "url": "veterinary-science-and-veterinary-medicine"
+            }
+        ],
+        "name": "Health Sciences",
+        "url": "health-sciences"
+    },
+    {
+        "domains": [
+            {
+                "name": "Arts and Humanities",
+                "subdomains": [
+                    {
+                        "name": "Arts and Humanities (General)",
+                        "url": "arts-and-humanities-general"
+                    },
+                    {
+                        "name": "History",
+                        "url": "history"
+                    },
+                    {
+                        "name": "Language and Linguistics",
+                        "url": "language-and-linguistics"
+                    },
+                    {
+                        "name": "Media Technology",
+                        "url": "media-technology"
+                    }
+                ],
+                "url": "arts-and-humanities"
+            },
+            {
+                "name": "Business, Management and Accounting",
+                "subdomains": [
+                    {
+                        "name": "Accounting",
+                        "url": "accounting"
+                    },
+                    {
+                        "name": "Business and International Management",
+                        "url": "business-and-international-management"
+                    },
+                    {
+                        "name": "Business, Management and Accounting (General)",
+                        "url": "business-management-and-accounting-general"
+                    },
+                    {
+                        "name": "Management Information Systems",
+                        "url": "management-information-systems"
+                    },
+                    {
+                        "name": "Management of Technology and Innovation",
+                        "url": "management-of-technology-and-innovation"
+                    },
+                    {
+                        "name": "Marketing",
+                        "url": "marketing"
+                    },
+                    {
+                        "name": "Organizational Behavior and Human Resource Management",
+                        "url": "organizational-behavior-and-human-resource-management"
+                    },
+                    {
+                        "name": "Strategy and Management",
+                        "url": "strategy-and-management"
+                    },
+                    {
+                        "name": "Tourism, Leisure and Hospitality Management",
+                        "url": "tourism-leisure-and-hospitality-management"
+                    }
+                ],
+                "url": "business-management-and-accounting"
+            },
+            {
+                "name": "Decision Sciences",
+                "subdomains": [
+                    {
+                        "name": "Decision Sciences (General)",
+                        "url": "decision-sciences-general"
+                    },
+                    {
+                        "name": "Information Systems and Management",
+                        "url": "information-systems-and-management"
+                    },
+                    {
+                        "name": "Management Science and Operations Research",
+                        "url": "management-science-and-operations-research"
+                    },
+                    {
+                        "name": "Statistics, Probability and Uncertainty",
+                        "url": "statistics-probability-and-uncertainty"
+                    }
+                ],
+                "url": "decision-sciences"
+            },
+            {
+                "name": "Economics, Econometrics and Finance",
+                "subdomains": [
+                    {
+                        "name": "Economics and Econometrics",
+                        "url": "economics-and-econometrics"
+                    },
+                    {
+                        "name": "Economics, Econometrics and Finance (General)",
+                        "url": "economics-econometrics-and-finance-general"
+                    },
+                    {
+                        "name": "Finance",
+                        "url": "finance"
+                    }
+                ],
+                "url": "economics-econometrics-and-finance"
+            },
+            {
+                "name": "Psychology",
+                "subdomains": [
+                    {
+                        "name": "Applied Psychology",
+                        "url": "applied-psychology"
+                    },
+                    {
+                        "name": "Clinical Psychology",
+                        "url": "clinical-psychology"
+                    },
+                    {
+                        "name": "Developmental and Educational Psychology",
+                        "url": "developmental-and-educational-psychology"
+                    },
+                    {
+                        "name": "Experimental and Cognitive Psychology",
+                        "url": "experimental-and-cognitive-psychology"
+                    },
+                    {
+                        "name": "Neuropsychology and Physiological Psychology",
+                        "url": "neuropsychology-and-physiological-psychology"
+                    },
+                    {
+                        "name": "Psychology (General)",
+                        "url": "psychology-general"
+                    },
+                    {
+                        "name": "Social Psychology",
+                        "url": "social-psychology"
+                    }
+                ],
+                "url": "psychology"
+            },
+            {
+                "name": "Social Sciences",
+                "subdomains": [
+                    {
+                        "name": "Archaeology",
+                        "url": "archaeology"
+                    },
+                    {
+                        "name": "Development",
+                        "url": "development"
+                    },
+                    {
+                        "name": "Education",
+                        "url": "education"
+                    },
+                    {
+                        "name": "Geography, Planning and Development",
+                        "url": "geography-planning-and-development"
+                    },
+                    {
+                        "name": "Health",
+                        "url": "health"
+                    },
+                    {
+                        "name": "Human Factors and Ergonomics",
+                        "url": "human-factors-and-ergonomics"
+                    },
+                    {
+                        "name": "Law",
+                        "url": "law"
+                    },
+                    {
+                        "name": "Library and Information Sciences",
+                        "url": "library-and-information-sciences"
+                    },
+                    {
+                        "name": "Linguistics and Language",
+                        "url": "linguistics-and-language"
+                    },
+                    {
+                        "name": "Safety Research",
+                        "url": "safety-research"
+                    },
+                    {
+                        "name": "Social Sciences (General)",
+                        "url": "social-sciences-general"
+                    },
+                    {
+                        "name": "Sociology and Political Science",
+                        "url": "sociology-and-political-science"
+                    },
+                    {
+                        "name": "Transportation",
+                        "url": "transportation"
+                    }
+                ],
+                "url": "social-sciences"
+            }
+        ],
+        "name": "Social Sciences and Humanities",
+        "url": "social-sciences-and-humanities"
+    }
+]
